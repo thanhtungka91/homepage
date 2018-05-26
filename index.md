@@ -14,9 +14,7 @@ You can use the [editor on GitHub](https://github.com/thanhtungka91/homepage/edi
   >[Source Code](https://github.com/thanhtungka91/weather)
 
 ## Web Backend 
-
 ### Golang 
- #### Install on linux 
   >[Install](https://gist.github.com/thanhtungka91/5b0901f9607d6337c6a0e38ba60e7384)
 ### Nodejs 
 ### PHP 
@@ -60,7 +58,5 @@ You can use the [editor on GitHub](https://github.com/thanhtungka91/homepage/edi
 ## Server-Deploy 
 ### Comon linux command 
 
-
 ### Support or Contact
-
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
