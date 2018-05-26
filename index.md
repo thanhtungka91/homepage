@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/thanhtungka91/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here is list of experience, projects, simple programes which i have worked, researched during my programing life. 
 
 
 ## IOS 
@@ -8,6 +8,7 @@ You can use the [editor on GitHub](https://github.com/thanhtungka91/homepage/edi
 * Projects 
   * POS 
     * [Collection Source](https://github.com/thanhtungka91/objectiveCExperience)
+
 ### Swift 
 * Projects 
   * Weather App 
@@ -51,7 +52,7 @@ You can use the [editor on GitHub](https://github.com/thanhtungka91/homepage/edi
   * [get maxdate as group](https://gist.github.com/thanhtungka91/30f2ddf8f8d96cf75e0b2a80f12befcd2)
   * [maxdate](https://gist.github.com/thanhtungka91/d89dd11f9503b4f556b5b350f5738440)     
   
-### Other Languages
+## Other Languages
 
 #### VBA
 * Crawller Data from NTT Docomo 
