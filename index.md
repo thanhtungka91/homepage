@@ -2,35 +2,64 @@
 
 You can use the [editor on GitHub](https://github.com/thanhtungka91/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## IOS 
+### Objetive-C 
+* Projects 
+  * POS 
+  >[Collection Source](https://github.com/thanhtungka91/objectiveCExperience)
+### Swift 
+* Projects 
+  * Weather App 
+  >[Source Code](https://github.com/thanhtungka91/weather)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Web Backend 
 
-```markdown
-Syntax highlighted code block
+### Golang 
+ #### Install on linux 
+  >[Install](https://gist.github.com/thanhtungka91/5b0901f9607d6337c6a0e38ba60e7384)
+### Nodejs 
+### PHP 
+* Projects 
+  * Laravel upload file to server 
+   > [Source Code](https://github.com/thanhtungka91/project-laravel)
+  * Cake3 example crawlling data from amz with jan number
+  > [Source Code](https://github.com/thanhtungka91/smartshopping)
+### Python 
+* Projects 
+  * News list 
+  Using python - Django 
+   > [Source Code](https://github.com/thanhtungka91/ReachLocal)
+### Ruby and Rail
+* Projects 
+  * Little corner Japan 
+  Using Spree Framework, PostgreSQL, Deploy on EC2 amazon 
+  > [Source Code](https://github.com/thanhtungka91/littlecornerjapan)
+## Web Frontend 
+### Vuejs 
+### Angular 
+* Projects 
+  * Todo list:   
+  > [Source Code](https://github.com/thanhtungka91/quickstart)
+## Database
+### Mysql 
+* Collecte these experience during in working 
+  * if-else: 
+    > [EX1](https://gist.github.com/thanhtungka91/30f2ddf8f8d96cf75e0b2a80f12befcd)   
+    > [EX2](https://gist.github.com/thanhtungka91/30f2ddf8f8d96cf75e0b2a80f12befcd)    
+  * [get maxdate as group](https://gist.github.com/thanhtungka91/30f2ddf8f8d96cf75e0b2a80f12befcd2)
+  * [maxdate](https://gist.github.com/thanhtungka91/d89dd11f9503b4f556b5b350f5738440)
+### Other Languages 
+#### VBA 
+* Crawller Data from NTT Docomo 
+  >[crawller](https://gist.github.com/thanhtungka91/d1589fa0d08dfecf5f93845ac9600295)   
+  >[pharseData](https://gist.github.com/thanhtungka91/8e825de0f988182db48a2247f8588a72)    
+#### Saleforce API (for PHP) 
+* Salefore Login 
+  >[Login Rest API](https://gist.github.com/thanhtungka91/91a4820ca2b8352c313db7e6992b5ecd)   
+## Server-Deploy 
+### Comon linux command 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thanhtungka91/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
